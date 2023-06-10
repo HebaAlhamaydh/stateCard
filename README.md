@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-[Demo](./design/desktop-preview.jpg)
+[Demo](https://hebaalhamaydh.github.io/stateCard/)
 
 ## Features
 
